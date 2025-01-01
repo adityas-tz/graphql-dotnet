@@ -1,0 +1,12 @@
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\bin\Debug\net9.0\graphql-dotnet.ServiceDefaults.deps.json
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\bin\Debug\net9.0\graphql-dotnet.ServiceDefaults.dll
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\bin\Debug\net9.0\graphql-dotnet.ServiceDefaults.pdb
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\graphql-dotnet.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\graphql-dotnet.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\graphql-dotnet.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\graphql-dotnet.ServiceDefaults.AssemblyInfo.cs
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\graphql-dotnet.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\graphql-dotnet.ServiceDefaults.dll
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\refint\graphql-dotnet.ServiceDefaults.dll
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\graphql-dotnet.ServiceDefaults.pdb
+C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet.ServiceDefaults\obj\Debug\net9.0\ref\graphql-dotnet.ServiceDefaults.dll
