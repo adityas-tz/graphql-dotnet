@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cQOTKRnKqvg=",
+  "dgSpecHash": "zT2fNbK6R7U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\New folder\\graphql-dotnet\\graphql-dotnet.AppHost\\graphql-dotnet.AppHost.csproj",
+  "projectFilePath": "D:\\website\\graphql-dotnet\\graphql-dotnet.AppHost\\graphql-dotnet.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aditya.s\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\aspire.dashboard.sdk.win-x64.9.0.0.nupkg.sha512",
     "C:\\Users\\aditya.s\\.nuget\\packages\\aspire.hosting\\9.0.0\\aspire.hosting.9.0.0.nupkg.sha512",

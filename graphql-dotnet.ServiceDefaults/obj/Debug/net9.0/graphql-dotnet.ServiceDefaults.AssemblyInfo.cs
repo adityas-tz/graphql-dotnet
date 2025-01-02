@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("graphql-dotnet.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b210af7d9d5eecea5115926ff23eac73829ecdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("graphql-dotnet.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("graphql-dotnet.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

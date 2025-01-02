@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\New folder\\graphql-dotnet\\",
+  "WorkspaceRootPath": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA524CA3-B07A-41D6-BA0E-DB5B9B56EFAD}|graphql-dotnet\\graphql-dotnet.csproj|c:\\users\\aditya.s\\onedrive - taazaa tech pvt ltd\\desktop\\graphql tests\\new folder\\graphql-dotnet\\graphql-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA524CA3-B07A-41D6-BA0E-DB5B9B56EFAD}|graphql-dotnet\\graphql-dotnet.csproj|c:\\users\\aditya.s\\onedrive - taazaa tech pvt ltd\\desktop\\graphql tests\\graphql-dotnet\\graphql-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA524CA3-B07A-41D6-BA0E-DB5B9B56EFAD}|graphql-dotnet\\graphql-dotnet.csproj|solutionrelative:graphql-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92248AF0-F0FA-4EAD-9644-34274F106D99}|graphql-dotnet.AppHost\\graphql-dotnet.AppHost.csproj|c:\\users\\aditya.s\\onedrive - taazaa tech pvt ltd\\desktop\\graphql tests\\graphql-dotnet\\graphql-dotnet.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92248AF0-F0FA-4EAD-9644-34274F106D99}|graphql-dotnet.AppHost\\graphql-dotnet.AppHost.csproj|solutionrelative:graphql-dotnet.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA524CA3-B07A-41D6-BA0E-DB5B9B56EFAD}|graphql-dotnet\\graphql-dotnet.csproj|c:\\users\\aditya.s\\onedrive - taazaa tech pvt ltd\\desktop\\graphql tests\\graphql-dotnet\\graphql-dotnet\\graphql-dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA524CA3-B07A-41D6-BA0E-DB5B9B56EFAD}|graphql-dotnet\\graphql-dotnet.csproj|solutionrelative:graphql-dotnet\\graphql-dotnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60B4BF-DA82-4375-979B-D84E8F15830B}|graphql-dotnet.ServiceDefaults\\graphql-dotnet.ServiceDefaults.csproj|c:\\users\\aditya.s\\onedrive - taazaa tech pvt ltd\\desktop\\graphql tests\\graphql-dotnet\\graphql-dotnet.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60B4BF-DA82-4375-979B-D84E8F15830B}|graphql-dotnet.ServiceDefaults\\graphql-dotnet.ServiceDefaults.csproj|solutionrelative:graphql-dotnet.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +66,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "graphql-dotnet.http",
+              "DocumentMoniker": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\graphql-dotnet\\graphql-dotnet.http",
+              "RelativeDocumentMoniker": "graphql-dotnet\\graphql-dotnet.http",
+              "ToolTip": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\graphql-dotnet\\graphql-dotnet.http",
+              "RelativeToolTip": "graphql-dotnet\\graphql-dotnet.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-01T18:57:58.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\graphql-dotnet.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "graphql-dotnet.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\graphql-dotnet.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "graphql-dotnet.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:52:38.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\graphql-dotnet.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "graphql-dotnet.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\graphql-dotnet.AppHost\\Program.cs",
+              "RelativeToolTip": "graphql-dotnet.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:52:30.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\New folder\\graphql-dotnet\\graphql-dotnet\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\graphql-dotnet\\Program.cs",
               "RelativeDocumentMoniker": "graphql-dotnet\\Program.cs",
-              "ToolTip": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\New folder\\graphql-dotnet\\graphql-dotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\aditya.s\\OneDrive - Taazaa Tech Pvt Ltd\\Desktop\\GraphQL tests\\graphql-dotnet\\graphql-dotnet\\Program.cs",
               "RelativeToolTip": "graphql-dotnet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T17:55:52.672Z",
               "EditorCaption": ""

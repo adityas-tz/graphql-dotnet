@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class graphql_dotnet : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\aditya.s\OneDrive - Taazaa Tech Pvt Ltd\Desktop\GraphQL tests\New folder\graphql-dotnet\graphql-dotnet\graphql-dotnet.csproj""";
+    public string ProjectPath => """D:\website\graphql-dotnet\graphql-dotnet\graphql-dotnet.csproj""";
 }
