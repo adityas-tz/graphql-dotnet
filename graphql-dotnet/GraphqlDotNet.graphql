@@ -1,0 +1,18 @@
+schema {
+  query: Query
+}
+
+type Query {
+  weatherForecast(days: Int! = 5): [WeatherForecast!]!
+  weatherForecastByDate(date: LocalDate!): WeatherForecast
+}
+
+type WeatherForecast {
+  date: LocalDate!
+  temperatureC: Int!
+  temperatureF: Int!
+  summary: String
+}
+
+"The `LocalDate` scalar type represents a ISO date string, represented as UTF-8 character sequences YYYY-MM-DD. The scalar follows the specification defined in RFC3339"
+scalar LocalDate
