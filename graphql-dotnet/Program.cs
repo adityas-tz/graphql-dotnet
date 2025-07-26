@@ -1,31 +1,37 @@
-using Scalar.AspNetCore;
+using graphql_dotnet;
+using HotChocolate.Execution;
+using Serilog;
 
-var builder = WebApplication.CreateBuilder(args);
-
+WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 builder.AddServiceDefaults();
 
-// Add services to the container.
+builder.Services.AddCors();
+builder.Services.ConfigureServices(builder.Configuration, builder.Environment);
 
-builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
-builder.Services.AddProblemDetails();
 
-var app = builder.Build();
+WebApplication app = builder.Build();
+app.ConfigureEndpointRouteBuilder();
 
-app.MapDefaultEndpoints();
+app.UseCors(corsPolicyBuilder =>
+{
+    corsPolicyBuilder
+        .AllowAnyOrigin()
+        .AllowAnyMethod()
+        .AllowAnyHeader();
+});
+var resolver = ActivatorUtilities.GetServiceOrCreateInstance<IRequestExecutorResolver>(app.Services);
+
+IRequestExecutor executor = resolver.GetRequestExecutorAsync("GraphqlDotNet").AsTask().Result;
+var schema = executor.Schema.ToString();
+File.WriteAllText("GraphqlDotNet.graphql", schema);
+app.UseExceptionHandler("/Error");
+// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+app.UseHsts();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.MapOpenApi();
-    app.MapScalarApiReference();
-}
 
 app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
+app.MapDefaultEndpoints();
+app.UseRouting();
 
 app.Run();
